@@ -5,7 +5,7 @@ export const About =()=> {
         <div className='jumbotron'>
             <div className='container'>
                 <h1 className='display-4'> Информация</h1>
-                <p className='lead'>Кроль эдишн</p>
+                <p className='lead'>First edition</p>
             </div>
         </div>
     )
